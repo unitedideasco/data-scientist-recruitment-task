@@ -3,9 +3,9 @@
 ## Podstawowe pojęcia
 
 * Arbitraż - kupowanie w jednym miejscu taniej, a w drugim sprzedawanie, równocześnie:
-  * https://pl.wikipedia.org/wiki/Arbitra%C5%BC_(ekonomia) 
-  * http://money.howstuffworks.com/personal-finance/financial-planning/arbitrage.htm
-  * https://www.youtube.com/watch?v=AuCH7fHZsZ4
+    * https://pl.wikipedia.org/wiki/Arbitra%C5%BC_(ekonomia)
+    * http://money.howstuffworks.com/personal-finance/financial-planning/arbitrage.htm
+    * https://www.youtube.com/watch?v=AuCH7fHZsZ4
 * Bid - jest to cena po której otwierane są zlecenia sprzedaży i zamykane zlecenia kupna. Ask - jest to cena po której otwierane są transakcje kupna i zamykane transakcje sprzedaży. Spread - jest to różnica pomiędzy ceną kupna (Ask), a ceną sprzedaży (Bid).
 * Long - gdy coś kupujemy, oczekując że kurs wzrośnie
 * Short - gdy coś sprzedajemy, spodziewając się spadku
@@ -18,8 +18,8 @@ Ważne info: Rozróżnienie to ma ogromne znaczenie dla rozliczania transakcji. 
 TL;DR: Arbitraż polega na kupowaniu taniej sprzedawaniu drożej
 
 1. Załóżmy że mamy taki stan początkowy:
-  * $1000.00 do dyspozycji
-  * 0 kg jabłek
+    * $1000.00 do dyspozycji
+    * 0 kg jabłek
 2. W celu uproszczenia tematu, zakładamy że możemy robić krótką sprzedaż jabłek :-)
 3. W pewnym momencie obserwowania kursów zauważamy że:
   1. Na Targowisku 1: Jabłka mają kurs sprzedaży (ask) $1.39297 i kupna (bid) $1.39279 (podane kursy za kilogram jabłek)
@@ -52,8 +52,8 @@ Następnie:
 
 1. Zakresy dat w plikach nie zawsze sie pokrywaja, niektore targowiska nie dzialaja w sposob ciagly
 2. Można optymalizować conajmniej te parametry:
-  1. Ilosc uzywanego kapitalu do kupowania/sprzedawania
-  2. Minimalna roznica dla otwarcia transakcji
-  3. Minimalna roznica dla zamkniecia transakcji
-  4. Maksymalny czas kiedy mamy otwarta transakcje - kiedy nie pojawi sie oportunity dla zamkniecia, i tak zamykamy pozycje aby mozna bylo otwierac kolejne transakcje
-  5. Alokacja kapitalu miedzy gieldami - niektore pary tych targowisk generuja wieksze okazje miedzy soba, niektore mniejsze
+    1. Ilosc uzywanego kapitalu do kupowania/sprzedawania
+    2. Minimalna roznica dla otwarcia transakcji
+    3. Minimalna roznica dla zamkniecia transakcji
+    4. Maksymalny czas kiedy mamy otwarta transakcje - kiedy nie pojawi sie oportunity dla zamkniecia, i tak zamykamy pozycje aby mozna bylo otwierac kolejne transakcje
+    5. Alokacja kapitalu miedzy gieldami - niektore pary tych targowisk generuja wieksze okazje miedzy soba, niektore mniejsze
