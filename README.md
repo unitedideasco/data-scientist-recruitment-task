@@ -57,3 +57,6 @@ Następnie:
     3. Minimalna roznica dla zamkniecia transakcji
     4. Maksymalny czas kiedy mamy otwarta transakcje - kiedy nie pojawi sie oportunity dla zamkniecia, i tak zamykamy pozycje aby mozna bylo otwierac kolejne transakcje
     5. Alokacja kapitalu miedzy gieldami - niektore pary tych targowisk generuja wieksze okazje miedzy soba, niektore mniejsze
+3. I oczywiście inne według Twojej kreatywności :-)
+
+Powodzenia!
