@@ -46,7 +46,7 @@ Metoda rozwiązania tego zadania jest dowolna, można używać absolutnie wszyst
 Następnie:
 
 * Rezultat zadania wrzuć na dostępne publicznie repozytioum na GitHub (kod zrodlowy) + plik README.md z opisem jak to zostało zrobione / jak uruchomić test
-* Umów naszą następną rozmowę za pomocą tego formularza: https://calendly.com/chojnowski/recruitment-task-first-review - tam jest też pole do wpisania linka do powyższego repozytorim - będziemy rozmawiać o wykonanym zadaniu, dlaczego zostały zastosowane takie a nie inne rozwiązania
+* Umów naszą następną rozmowę za [tego formularza](https://calendly.com/chojnowski/recruitment-task-first-review) - tam jest też pole do wpisania linka do Twojego repozytorium - będziemy rozmawiać o wykonanym zadaniu, dlaczego zostały zastosowane takie a nie inne rozwiązania
 
 ## Protips
 
@@ -56,7 +56,8 @@ Następnie:
     2. Minimalna roznica dla otwarcia transakcji
     3. Minimalna roznica dla zamkniecia transakcji
     4. Maksymalny czas kiedy mamy otwarta transakcje - kiedy nie pojawi sie oportunity dla zamkniecia, i tak zamykamy pozycje aby mozna bylo otwierac kolejne transakcje
-    5. Alokacja kapitalu miedzy gieldami - niektore pary tych targowisk generuja wieksze okazje miedzy soba, niektore mniejsze
+    5. Alokacja kapitalu miedzy targowiskami - niektore ich pary generują większe okazje między sobą, niektóre mniejsze
 3. I oczywiście inne według Twojej kreatywności :-)
+4. Pamiętaj o tym że $1000.00 (lub inna kwota kapitału którą masz) musi zostać podzielona między targi - nie możesz z $1000.00 iść jednocześnie na dwa targowiska i zrobić tymi samymi pieniędzmi kupna i sprzedaży, przy dwóch targach musisz to podzielić na $500.00
 
 Powodzenia!
