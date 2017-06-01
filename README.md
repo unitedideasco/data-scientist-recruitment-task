@@ -18,7 +18,7 @@ Ważne info: Rozróżnienie to ma ogromne znaczenie dla rozliczania transakcji. 
 TL;DR: Arbitraż polega na kupowaniu taniej sprzedawaniu drożej
 
 1. Załóżmy że mamy taki stan początkowy:
-    * $1000.00 do dyspozycji
+    * $1000 do dyspozycji
     * 0 kg jabłek
 2. W celu uproszczenia tematu, zakładamy że możemy robić krótką sprzedaż jabłek :-)
 3. W pewnym momencie obserwowania kursów zauważamy że:
@@ -26,15 +26,15 @@ TL;DR: Arbitraż polega na kupowaniu taniej sprzedawaniu drożej
   2. Na Targowisku 2: Jabłka mają kurs sprzedaży (ask) $1.38297 i kupna (bid) $1.38279 (podane kursy za kilogram jabłek)
   3. Wygląda na to, że możemy kupić na Targowisku 2 taniej, a na Targowisku 1 sprzedać drożej, dla ułatwienia zakładamy w tym momencie że jest pewna  różnica kursu przy której w ogóle będziemy otwierać transakcję, nazwijmy ją X - mniejszy "rozjazd" niż X nas nie interesuje, i nie będziemy w ogóle tego uważali za oportunity po które warto się schylać
   4. W takim razie, otwieramy dwie transakcje jednocześnie:
-    1. Otwieramy na kwotę $500.00 transakcję kupna (long) na Targowisku 2
-    2. Otwieramy za kwotę $500.00 transakcję sprzedaży (short) na Targowisku 1
+    1. Otwieramy na kwotę $500 transakcję kupna (long) na Targowisku 2
+    2. Otwieramy za kwotę $500 transakcję sprzedaży (short) na Targowisku 1
     3. W tym momencie teoretycznie zarobiliśmy, ale po otwarciu obu transakcji:
       1. Mamy (wirtualne) jabłka na Targowisku 2 - tyle ile udało się kupić za $500
       2. Mamy (wirtualne) dolary na Targowisku 1 - tutaj zrobiliśmy krótką sprzedaż, zatem musimy "sprzedać" tyle kilogramów jabłek ile kupiliśmy na Targowisku 2 za dolary
   5. W tym momencie jesteśmy w trakcie arbitrażu, ale potrzebujemy wrócić do stanu początkowego, to znaczy mieć znowu dolary a nie kontrakty na dolary i kontrakty short na jabłka
   6. Czekamy zatem na kolejne oportunity aż kursy się znowu rozjadą o jakiś sensowny przedział (bo mniejszy nas w ogóle nie będzie interesował), nazwijmy go Y
   7. Zamykamy wtedy transakcje na obu targowiskach, dzięki czemu jesteśmy spowrotem z dolarami w ręku i bez jabłek
-  8. Załóżmy że na tej transakcji zarobiliśmy $100.00 dolarów (takie były różnice), w takim razie mamy $1100.00 na koncie
+  8. Załóżmy że na tej transakcji zarobiliśmy $100 dolarów (takie były różnice), w takim razie mamy $1100 na koncie
   9. Możemy czekać na następne oportunities
 
 ## Twoje zadanie
@@ -58,6 +58,6 @@ Następnie:
     4. Maksymalny czas kiedy mamy otwarta transakcje - kiedy nie pojawi sie oportunity dla zamkniecia, i tak zamykamy pozycje aby mozna bylo otwierac kolejne transakcje
     5. Alokacja kapitalu miedzy targowiskami - niektore ich pary generują większe okazje między sobą, niektóre mniejsze
 3. I oczywiście inne według Twojej kreatywności :-)
-4. Pamiętaj o tym że $1000.00 (lub inna kwota kapitału którą masz) musi zostać podzielona między targi - nie możesz z $1000.00 iść jednocześnie na dwa targowiska i zrobić tymi samymi pieniędzmi kupna i sprzedaży, przy dwóch targach musisz to podzielić na $500.00
+4. Pamiętaj o tym że $1000 (lub inna kwota kapitału którą masz) musi zostać podzielona między targi - nie możesz z $1000 iść jednocześnie na dwa targowiska i zrobić tymi samymi pieniędzmi kupna i sprzedaży, przy dwóch targach musisz to podzielić na $500
 
 Powodzenia!
