@@ -1,4 +1,4 @@
-# Data Science Summer Internship Recruitment Task
+# Data Scientist Recruitment Task
 
 ## Podstawowe pojęcia
 
